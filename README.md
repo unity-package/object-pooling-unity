@@ -3,16 +3,16 @@
     <img alt="Made With Unity" src="https://img.shields.io/badge/made%20with-Unity-57b9d3.svg?logo=Unity">
   </a>
   <a>
-    <img alt="License" src="https://img.shields.io/github/license/wolf-package/object-pooling-unity?logo=github">
+    <img alt="License" src="https://img.shields.io/github/license/unity-package/object-pooling-unity?logo=github">
   </a>
   <a>
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wolf-package/object-pooling-unity?logo=Mapbox&color=orange">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/unity-package/object-pooling-unity?logo=Mapbox&color=orange">
   </a>
   <a>
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/wolf-package/object-pooling-unity?logo=VirtualBox">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/unity-package/object-pooling-unity?logo=VirtualBox">
   </a>
   <a>
-    <img alt="Last Release" src="https://img.shields.io/github/v/release/wolf-package/object-pooling-unity?include_prereleases&logo=Dropbox&color=yellow">
+    <img alt="Last Release" src="https://img.shields.io/github/v/release/unity-package/object-pooling-unity?include_prereleases&logo=Dropbox&color=yellow">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 for version `1.0.1`
 ```csharp
-"com.wolf-org.object-pooling":"https://github.com/wolf-org/object-pooling-unity.git#1.0.1",
+"com.wolf-org.object-pooling":"https://github.com/unity-package/object-pooling-unity.git#1.0.1",
 ```
 ## Use
 
